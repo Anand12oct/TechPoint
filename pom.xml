@@ -118,6 +118,7 @@
 		</dependency>        
 	</dependencies>
     <build>
+    	<finalName>techpoint</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-eclipse-plugin</artifactId>
