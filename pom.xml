@@ -110,7 +110,7 @@
 			<version>1.2</version>
 		</dependency>
 	
-		<!-- Test -->
+		<!-- Test JUnit -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
