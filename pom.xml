@@ -118,6 +118,7 @@
 		</dependency>        
 	</dependencies>
     <build>
+    	<!-- Context name -->
     	<finalName>techpoint</finalName>
         <plugins>
             <plugin>
