@@ -21,4 +21,9 @@ public class Test2 {
 		System.out.println("added through techpoint_b_2");
 	}
 	
+	// test in eclipse only
+	public void eclipseMethod() {
+		System.out.println("eclipse method.....");
+	}
+	
 }
