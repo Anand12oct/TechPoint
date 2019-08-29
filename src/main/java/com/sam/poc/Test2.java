@@ -16,4 +16,9 @@ public class Test2 {
 		System.out.println("changed through techpoint-b-3");
 	}
 	
+	// added through techpoint-b-2
+	public void testMethod_b2() {
+		System.out.println("added through techpoint_b_2");
+	}
+	
 }
